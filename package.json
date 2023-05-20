@@ -1,4 +1,16 @@
 {
+<<<<<<< HEAD
+=======
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "color_text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohit",
+  "license": "ISC",
+>>>>>>> 58094ab34149f4e92af4fe048f9ab2c166e6b840
   "dependencies": {
     "colors": "^1.4.0"
   }
